@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "homepage": "https://harsh-sethi.github.io/band-name-generator/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
